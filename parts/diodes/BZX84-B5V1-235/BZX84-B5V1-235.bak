@@ -6,7 +6,7 @@
     (property "Value" "BZX84-B5V1-235" (id 1) (at -2.54 -2.54 90)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "BZX84-B5V1-235:SOT-23.kicad_mod" (id 2) (at -2.54 8.89 0)
+    (property "Footprint" "BZX84-B5V1-235:SOT-23" (id 2) (at -2.54 8.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at -2.54 8.89 0)
