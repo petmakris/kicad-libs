@@ -1,0 +1,10 @@
+name: TC7SET08FU
+
+description: Logic Gates TTL LEVEL INPUT AND L-MOS
+datasheet: TC7SET08FU.pdf
+
+distributors:
+  - name: Mouser
+    pn: 757-TC7SET08FULJ(CT
+    mfr: Toshiba
+    link: https://gr.mouser.com/ProductDetail/Toshiba/TC7SET08FULJCT?qs=5pLaOnqdcwM3RLqijSX7GA%3D%3D
