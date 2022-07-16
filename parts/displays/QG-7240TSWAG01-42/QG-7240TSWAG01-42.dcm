@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP QG-7240TSWAG01-42
+D OLED Display 0.42" Shenzhen Allvision
+K OLED Display 0.42
+F ${KICAD_LOCAL_LIB}/QG-7240TSWAG01-42/QG-7240TSWAG01-42.pdf
+$ENDCMP
+#
+#End Doc Library

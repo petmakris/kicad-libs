@@ -1,0 +1,13 @@
+name: FM4001-W
+
+description: Rectifiers Vr/50V Io/1A T/R
+datasheet: FM4001-W.pdf
+
+distributors:
+  - name: mouser 
+    pn: 583-FM4001
+    mfr: FM4001-W
+    link: https://gr.mouser.com/ProductDetail/Rectron/FM4001-W?qs=Iw9Ubr57Px1QJZsySQZYRg%3D%3D
+
+footprint: 
+  kicad: 'Package_TO_SOT_SMD: TO - 252 - 3 _TabPin2'

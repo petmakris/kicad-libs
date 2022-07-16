@@ -1,0 +1,10 @@
+name: SN74HC164DR
+
+description: IC digital; 8bit,asynchronous,serial input,parallel out; SMD
+datasheet: SN74HC164DR.pdf
+
+distributors:
+  - name: SN74HC164DR
+    pn: SN74HC164DR
+    mfr: Texas Instruments
+    link: https://www.tme.eu/gr/en/details/sn74hc164dr/shift-registers/texas-instruments/

@@ -1,0 +1,10 @@
+name: LM7805 SMD
+
+description: Linear Voltage Regulators 3-Term Pos Vreg 5.0Vo 35Vin 1.5A
+datasheet: 'NJM7800_E-1917431.pdf'
+
+distributors:
+  - name: 513 - NJM7805DL1A - TE2
+    pn: 583-FM4001
+    mfr: NJM7805DL1A - TE2
+    link: https://gr.mouser.com/ProductDetail/NJR/NJM7805DL1A-TE2?qs=olOlmz3cusF%2FR7jTqh8sYw%3D%3D

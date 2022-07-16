@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS27081ADDCR
+D 1.2V-8V 3A High-Side Load Switch TSOT23 TPS27081ADDCR, Dual MOSFET Power Driver,, 1.2 ??? 8 V, 6-Pin SOT
+F http://www.ti.com/lit/ds/symlink/tps27081a.pdf
+$ENDCMP
+#
+#End Doc Library

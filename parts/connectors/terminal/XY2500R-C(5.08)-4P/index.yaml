@@ -1,0 +1,15 @@
+name: XY2500R-C(5.08)-4P
+
+description: Pluggable terminal block Contacts ph 5.08mm ways 4 socket
+datasheet: XY2500R-C.pdf
+
+distributors:
+  - name: XY2500R-C(5.08)-4P
+    pn: XY2500R-C(5.08)-4P
+    mfr: OEM
+    link: https://grobotronics.com/terminal-block-pluggable-4-pins-male-angle-p5.08.html
+  - name: XY2500R-C(5.08)-4P
+    pn: TBG-5-KB-4P-GN
+    mfr: XINYA
+    link: https://www.tme.com/au/en/details/tbg-5-kb-4p-gn/pluggable-terminal-blocks/xinya/xy2500r-c-5-08-4pin/
+

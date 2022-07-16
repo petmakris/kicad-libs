@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VT6M1T2CR
+D MOSFET,N & P-channel,20V,100mA,VMT6 ROHM VT6M1T2CR Dual N/P-channel MOSFET Transistor, +/-100 mA, -20 V, 20 V, 6-Pin VMT
+F ${KIPRJMOD}/symbols/VT6M1T2CR/vt6m1t2cr-e-1873428.pdf
+$ENDCMP
+#
+#End Doc Library

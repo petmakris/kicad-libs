@@ -1,0 +1,14 @@
+name: STM32G030F6P6
+
+description: Arm® Cortex®-M0+ 32-bit MCU, up to 64 KB Flash, 8 KB RAM, 2x USART, timers, ADC, comm. I/Fs, 2.0-3.6V
+datasheet: STM32G030F6P6.pdf
+
+distributors:
+  - name: LCSC
+    pn: C724040
+    mfr: STM32G030F6P6
+    link: https://lcsc.com/product-detail/ST-Microelectronics_STMicroelectronics-STM32G030F6P6_C724040.html
+  - name: Mouser
+    pn: 511-STM32G030F6P6TR
+    mfr: STM32G030F6P6TR
+    link: https://gr.mouser.com/ProductDetail/STMicroelectronics/STM32G030F6P6TR?qs=xZ%2FP%252Ba9zWqbCpBN9FNM5kA%3D%3D

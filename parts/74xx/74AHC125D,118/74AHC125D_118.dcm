@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74AHC125D,118
+D 74AHC(T)125 - Quad buffer/line driver; 3-state@en-us
+F https://componentsearchengine.com/Datasheets/1/74AHC125D,118.pdf
+$ENDCMP
+#
+#End Doc Library

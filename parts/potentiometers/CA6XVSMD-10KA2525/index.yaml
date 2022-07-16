@@ -1,0 +1,10 @@
+name: CA6XVSMD-10KA2525
+
+description:  Potentiometer mounting; single turn; 10kΩ; 100mW; SMD; ±20%; bag
+datasheet: ACP_CA6.pdf
+
+distributors:
+  - name: TME
+    pn: CA6VSMD-10K
+    mfr: ACP
+    link: https://www.tme.eu/gr/en/details/ca6vsmd-10k/single-turn-smd-trimmers/acp/ca6xvsmd-10ka2525/

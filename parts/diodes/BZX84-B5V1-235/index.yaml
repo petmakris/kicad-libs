@@ -1,0 +1,14 @@
+name: BZX84-B5V1-235
+
+description: Zener Diodes DIODE ZENER 2 PCT
+datasheet: BZX84_SER-1319896.pdf
+
+distributors:
+  - name: Mouser
+    pn: 771-BZX84-B5V1235
+    mfr: 'BZX84-B5V1,235'
+    link: https://gr.mouser.com/ProductDetail/Nexperia/BZX84-B5V1235?qs=me8TqzrmIYWuU3MF1iSoHw%3D%3D
+
+
+footprint:
+    kicad: from diodes sot-23 

@@ -1,0 +1,10 @@
+name: BZV55-C8V2,135
+
+description: Zener Diodes 8.2V 500mW
+datasheet: BZV55-C8V2,135.pdf
+
+distributors:
+  - name: Mouser
+    pn: 771-BZV55-C8V2135
+    mfr: Nexperia
+    link: https://gr.mouser.com/ProductDetail/Nexperia/BZV55-C8V2135?qs=me8TqzrmIYVcFHTH24ExRg%3D%3D

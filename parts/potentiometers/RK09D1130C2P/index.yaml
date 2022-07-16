@@ -1,0 +1,13 @@
+name: RK09D1130C2P
+
+description: Potentiometers 9MM 10K V/ADJ
+datasheet: RK09K_RK09D Series.pdf
+
+distributors:
+  - name: Mouser
+    pn: 688-RK09D1130C2P
+    mfr: RK09D1130C2P
+    link: https://gr.mouser.com/ProductDetail/Alps-Alpine/RK09D1130C2P?qs=seHrhfPpLDw%2FxdY1Q%252B3DvA%3D%3D
+
+extra:
+  https://tech.alpsalpine.com/prod/e/html/potentiometer/rotarypotentiometers/rk09k/rk09d1130c2p.html

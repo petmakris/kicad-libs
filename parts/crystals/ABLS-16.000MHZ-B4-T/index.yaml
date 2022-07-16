@@ -1,0 +1,10 @@
+name: ABLS-16.000MHZ-B4-T
+
+description: Crystals 16.0 MHZ 18PF 40 OHMAUTO
+datasheet: ABLS-16.000MHZ-B4-T.pdf
+
+distributors:
+  - name: Mouser
+    pn: 815-ABLS-16.0M-T
+    mfr: ABLS-16.000MHZ-B4-T 
+    link: https://gr.mouser.com/ProductDetail/ABRACON/ABLS-16000MHZ-B4-T?qs=%2Fha2pyFadujkvCLXm7i8tlyYqmZ3jT91TGwi4esEOI7FXPIVGx1fWA%3D%3D

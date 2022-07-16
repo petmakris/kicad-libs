@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAV70LT1G
+D Small signal diode,BAV70LT1 0.2A,reel ON Semiconductor BAV70LT1G Rectifier Diode, 0.2A, 70V, 3-Pin SOT-23
+F http://www.onsemi.com/pub/Collateral/BAV70LT1-D.PDF
+$ENDCMP
+#
+#End Doc Library

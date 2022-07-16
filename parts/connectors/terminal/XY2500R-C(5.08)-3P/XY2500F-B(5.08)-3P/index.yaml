@@ -1,0 +1,14 @@
+name: XY2500F-B(5.08)-3P
+
+description: Pluggable terminal block 5.08mm ways 3 straight plug female
+datasheet: XY2500F-B.pdf
+
+distributors:
+  - name: XY2500F-B(5.08)-3P
+    pn: XY2500F-B(5.08)-3P
+    mfr: OEM
+    link: https://grobotronics.com/terminal-block-pluggable-3-pins-female-p5.08.html
+  - name: XY2500F-B(5.08)-3P
+    pn: TBW-5.08-K-3P
+    mfr: XINYA
+    link: https://www.tme.eu/en/details/tbw-5.08-k-3p/pluggable-terminal-blocks/xinya/xy2500f-b-5-08-3p/
