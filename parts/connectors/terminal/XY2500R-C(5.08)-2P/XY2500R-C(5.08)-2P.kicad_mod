@@ -1,6 +1,6 @@
 (footprint "XY2500R-C(5.08)-2P" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62D3D921)
+  (tedit 62D9C1F9)
   (attr through_hole)
   (fp_text reference "REF**" (at 0 -2.1 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -26,8 +26,8 @@
   (fp_line (start 5.04 -3) (end -5.04 -3) (layer "F.Fab") (width 0.1) (tstamp 490a0b01-c772-4bb4-8689-973f492c986d))
   (fp_line (start 5.04 2) (end 5.04 -3) (layer "F.Fab") (width 0.1) (tstamp 6c270de1-f553-45ec-b139-000521bc5154))
   (fp_line (start -5.04 2) (end -5.04 -3) (layer "F.Fab") (width 0.1) (tstamp eb34d0eb-2979-481b-a63a-296db47aa375))
-  (pad "1" thru_hole circle (at 2.54 0 90) (size 3.2 3.2) (drill 1.2) (layers *.Cu *.Mask) (tstamp b5071759-a4d7-4769-be02-251f23cd4454))
-  (pad "2" thru_hole circle (at -2.54 0 90) (size 3.2 3.2) (drill 1.2) (layers *.Cu *.Mask) (tstamp 752417ee-7d0b-4ac8-a22c-26669881a2ab))
+  (pad "1" thru_hole circle (at 2.54 0 90) (size 3.2 3.2) (drill 1.5) (layers *.Cu *.Mask) (tstamp b5071759-a4d7-4769-be02-251f23cd4454))
+  (pad "2" thru_hole circle (at -2.54 0 90) (size 3.2 3.2) (drill 1.5) (layers *.Cu *.Mask) (tstamp 752417ee-7d0b-4ac8-a22c-26669881a2ab))
   (model "${KICAD_LIBS}/parts/connectors/terminal/XY2500R-C(5.08)-2P/XY2500R-C(5.08)-2P.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
