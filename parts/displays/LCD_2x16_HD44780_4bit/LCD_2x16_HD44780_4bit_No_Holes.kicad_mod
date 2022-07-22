@@ -1,6 +1,6 @@
 (footprint "LCD_2x16_HD44780_4bit_No_Holes" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62D3E07A)
+  (tedit 62D9D9F8)
   (descr "LCD 16x2 http://www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf")
   (tags "LCD 16x2 Alphanumeric 16pin")
   (attr through_hole)
@@ -63,7 +63,7 @@
   (pad "RW" thru_hole oval (at 10.16 0) (size 1.8 2.6) (drill 1.2) (layers *.Cu *.Mask) (tstamp 811381f4-772f-4b0d-8bef-e02e7a34c83e))
   (pad "VCC" thru_hole oval (at 2.54 0) (size 1.8 2.6) (drill 1.2) (layers *.Cu *.Mask) (tstamp 236eb5d3-1a80-4626-bf3d-45645c8c1c5e))
   (pad "VE" thru_hole oval (at 5.08 0) (size 1.8 2.6) (drill 1.2) (layers *.Cu *.Mask) (tstamp 7cd8109f-5f99-46a5-9e32-14f7754144db))
-  (model "${KISYS3DMOD}/Display.3dshapes/WC1602A.wrl"
+  (model "/home/pmakris/projects/kicad-libs/parts/displays/LCD_2x16_HD44780_4bit/LCD_2x16_HD44780_4bit.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
