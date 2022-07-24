@@ -4,7 +4,12 @@ description: IC digital; 8bit,asynchronous,serial input,parallel out; SMD
 datasheet: SN74HC164DR.pdf
 
 distributors:
-  - name: SN74HC164DR
+  - name: TME
     pn: SN74HC164DR
     mfr: Texas Instruments
     link: https://www.tme.eu/gr/en/details/sn74hc164dr/shift-registers/texas-instruments/
+
+  - name: Mouser
+    pn: 863-MC74HC164ADR2G
+    mfr: onsemi
+    link: https://gr.mouser.com/ProductDetail/onsemi/MC74HC164ADR2G?qs=sGAEpiMZZMv4BkFy%252BbL2aNe7wV5rqiI7vV4n3W5eRVk%3D

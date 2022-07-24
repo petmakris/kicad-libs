@@ -6,7 +6,7 @@
     (property "Value" "ATMEGA328AU" (id 1) (at -13.97 43.18 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "ATMEGA38AU:TQFP-32_7x7mm_P0.8mm" (id 2) (at -5.08 40.64 0)
+    (property "Footprint" "ATMEGA328AU:TQFP-32_7x7mm_P0.8mm" (id 2) (at -5.08 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at -5.08 40.64 0)

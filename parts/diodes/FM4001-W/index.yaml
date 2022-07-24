@@ -9,5 +9,10 @@ distributors:
     mfr: FM4001-W
     link: https://gr.mouser.com/ProductDetail/Rectron/FM4001-W?qs=Iw9Ubr57Px1QJZsySQZYRg%3D%3D
 
+  - name: TME
+    pn: FM4001-LGE
+    mfr: LUGUANG ELECTRONIC
+    link: https://www.tme.eu/gr/details/fm4001-lge/diodoi-genikes-khreses-smd/luguang-electronic/fm4001/
+
 footprint: 
   kicad: 'Package_TO_SOT_SMD: TO - 252 - 3 _TabPin2'

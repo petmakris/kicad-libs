@@ -8,3 +8,9 @@ distributors:
     pn: 815-ABLS-16.0M-T
     mfr: ABLS-16.000MHZ-B4-T 
     link: https://gr.mouser.com/ProductDetail/ABRACON/ABLS-16000MHZ-B4-T?qs=%2Fha2pyFadujkvCLXm7i8tlyYqmZ3jT91TGwi4esEOI7FXPIVGx1fWA%3D%3D
+
+
+  - name: TME
+    pn: 16.00M-SMDHC49S
+    mfr: YIC
+    link: https://www.tme.eu/gr/en/details/16.00m-smdhc49s/smd-quartz-crystals/yic/

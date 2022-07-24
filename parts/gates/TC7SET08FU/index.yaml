@@ -8,3 +8,9 @@ distributors:
     pn: 757-TC7SET08FULJ(CT
     mfr: Toshiba
     link: https://gr.mouser.com/ProductDetail/Toshiba/TC7SET08FULJCT?qs=5pLaOnqdcwM3RLqijSX7GA%3D%3D
+
+  - name: TME
+    pn: SN74AHC1G08DBVR
+    mfr: Texas Instruments
+    link: https://www.tme.eu/gr/en/details/sn74ahc1g08dbvr/gates-inverters/texas-instruments/
+    # SN74AHC1G08DBVR

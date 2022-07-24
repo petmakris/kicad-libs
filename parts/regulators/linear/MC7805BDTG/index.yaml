@@ -6,5 +6,13 @@ datasheet:
 distributors:
   - name: Mouser
     pn: 863-MC7805BDTG
-    mfr: onsemi
+    mfr: MC7805BDTG
+    brand: onsemi
     link: https://gr.mouser.com/ProductDetail/onsemi/MC7805BDTG?qs=%252B9%2Fcbd0IE0TYE8BQQ8My5g%3D%3D
+
+  - name: TME
+    pn: MC7805BDTG
+    mfr: MC7805BDTG
+    brand: onsemi
+    link: https://www.tme.eu/gr/en/details/mc7805bdtg/unregulated-voltage-regulators/onsemi/
+

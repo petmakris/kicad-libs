@@ -4,7 +4,7 @@ import os
 import glob
 import yaml
 from pathlib import Path
-# from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup
 from html5print import HTMLBeautifier
 from jinja2 import Template
 
