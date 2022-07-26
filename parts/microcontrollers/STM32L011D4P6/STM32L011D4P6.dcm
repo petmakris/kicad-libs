@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP STM32L011D4P6
-D ARM Microcontrollers - MCU Ultra-low-power ARM Cortex-M0+ MCU with 16-Kbytes Flash, 32 MHz CPU
-K
-F 
-$ENDCMP
-#
-#End Doc Library

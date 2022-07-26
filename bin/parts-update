@@ -35,25 +35,31 @@ def get_template_data(data_map):
           path = Path(index_filename)
 
           directory = str(path.parent)
-          
-          datasheet = ''
+          # now, split this so I can extract category.
 
-          if 'datasheet' in data and data['datasheet'] != None:
-               datasheet = directory + '/' + data['datasheet']
+          category = Path(prefix_kicad_libs(str(path.parent.parent)))
+          category = list(category.parts[2:])
+          # print(list(categories.parts[2:]))
+                    
+          # datasheet = ''
 
-          description = data['description']
+          # if 'datasheet' in data and data['datasheet'] != None:
+          #      datasheet = directory + '/' + data['datasheet']
 
-          distributors = []
-          if 'distributors' in data:
-               distributors = data['distributors']
+          # description = data['description']
+
+          suppliers = []
+          if 'suppliers' in data:
+               suppliers = data['suppliers']
 
           values = {
+               'category': category,
                'name': path.parent.name,
                'directory': prefix_kicad_libs(directory),
-               'description': description,
-               'datasheet': datasheet,
+               # 'description': description,
+               # 'datasheet': datasheet,
                'image': directory + '/index.png',
-               'distributors': distributors
+               'suppliers': suppliers
           }
           
 
@@ -63,15 +69,17 @@ def get_template_data(data_map):
 
 
 def validate(index_data_map):
-     # ensure all properties present in all files
      return index_data_map
 
-# what about sorting order?
 
 # use relative paths for links and images?
 
 def main():
-     data = get_template_data(validate(read_index_files_to_dict()))
+     files_map = read_index_files_to_dict()
+     data = get_template_data(validate(files_map))
+
+     # import json
+     # print(json.dumps(data, indent=4, sort_keys=True))
 
      with open(HTML_TEMPLATE_FILENAME, 'r') as html_template_filename:
           with open(REPORT_FILENAME, 'w') as report_file:
@@ -82,5 +90,3 @@ def main():
 if __name__ == '__main__':
      os.chdir(KICAD_LIBS)
      main()
-
-

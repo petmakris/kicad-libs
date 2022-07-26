@@ -3,7 +3,7 @@ name: 39502-1502
 description: Pluggable Terminal Blocks 3.5MM EURO HEADER RA EADER RA BLK AU 2CKT
 datasheet: 39502-1502.pdf
 
-distributors:
+suppliers:
   - name: Mouser
     pn: 538-39502-1502
     mfr: 39502-1502

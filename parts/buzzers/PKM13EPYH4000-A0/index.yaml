@@ -1,16 +1,11 @@
 name: PKM13EPYH4000-A0
 
-description: Piezo Buzzers & Audio Indicators 70 DB 4.0 KHZ
-datasheet: 
+suppliers:
+  - name: Mouser
+    pn: 81-PKM13EPYH4000-A0
+    link: https://gr.mouser.com/ProductDetail/Murata-Electronics/PKM13EPYH4000-A0?qs=flZjIlU0hx3F33gxKU9zcw%3D%3D&gclid=CjwKCAjww8mWBhABEiwAl6-2RfWrZCXe4hRtm0AT3Cj0KO5IYZIwEiTsurGH3meQ1YIgmmOonB1p2RoCumIQAvD_BwE
+
+# https://www.murata.com/en-global/products/productdetail?partno=PKM13EPYH4000-A0
 
 # replaced by part
 # PKM13EPYH4002-B0
-
-distributors:
-  - name: MOUSER
-    pn: 81-PKM13EPYH4000-A0
-    mfr: Murata Electronics
-    link: https://gr.mouser.com/ProductDetail/Murata-Electronics/PKM13EPYH4000-A0?qs=flZjIlU0hx3F33gxKU9zcw%3D%3D&gclid=CjwKCAjww8mWBhABEiwAl6-2RfWrZCXe4hRtm0AT3Cj0KO5IYZIwEiTsurGH3meQ1YIgmmOonB1p2RoCumIQAvD_BwE
-
-
-# https://www.murata.com/en-global/products/productdetail?partno=PKM13EPYH4000-A0

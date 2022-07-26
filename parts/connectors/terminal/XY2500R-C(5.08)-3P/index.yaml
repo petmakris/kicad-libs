@@ -1,15 +1,11 @@
 name: XY2500R-C(5.08)-3P
 
-description: Pluggable terminal block Contacts ph 5.08mm ways 3 socket
-datasheet: XY2500R-C.pdf
-
-distributors:
-  - name: XY2500R-C(5.08)-3P
+suppliers:
+  - name: grobotronics
     pn: XY2500R-C(5.08)-3P
-    mfr: OEM
     link: https://grobotronics.com/terminal-block-pluggable-3-pins-male-angle-p5.08.html
-  - name: XY2500R-C(5.08)-3P
+
+  - name: TME
     pn: TBG-5-KB-3P-GN
-    mfr: XINYA
     link: https://www.tme.eu/en/details/tbg-5-kb-3p-gn/pluggable-terminal-blocks/xinya/xy2500r-c-5-08-3pin/
 

@@ -1,6 +1,0 @@
-859-LTV-816S 
-
-https://gr.mouser.com/ProductDetail/Lite-On/LTV-816S/?qs=sGAEpiMZZMteimceiIVCB5a76pgQN0Hd%252bk%252b%252b4jgi13I%3d
-
-- To check the dual and quad version
-- For stepping I would need a faster optocoupler

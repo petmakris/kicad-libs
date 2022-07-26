@@ -1,12 +1,8 @@
 name: SN74LS126ADR
 
-description: Buffers & Line Drivers Quad Bus Buffer With 3-State Outputs
-datasheet: 
-
-distributors:
-  - name: 595-SN74LS126ADR
-    pn: SN74LS126ADR
-    mfr: Texas Instruments
+suppliers:
+  - name: Mouser
+    pn: 595-SN74LS126ADR
     link: https://gr.mouser.com/ProductDetail/Texas-Instruments/SN74LS126ADR?qs=SL3LIuy2dWxWzZ6NBGIbAQ%3D%3D
 
 # Package: SOIC-D 

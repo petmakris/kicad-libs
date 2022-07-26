@@ -1,0 +1,154 @@
+c9287e8b-d6a7-46c4-80fe-fa75f087e236
+Makris Petros and Co. GP
+Internal Bom tool
+
+https://api.mouser.com/api/docs/ui/index#/SearchApi/SearchApi_SearchByPartNumber
+
+
+
+
+
+
+
+
+
+
+
+curl -X POST "https://api.mouser.com/api/v1/search/partnumber?apiKey=c9287e8b-d6a7-46c4-80fe-fa75f087e236" 
+    -H "accept: application/json" 
+    -H "Content-Type: application/json" 
+    { 
+        "SearchByPartRequest": { 
+            "mouserPartNumber": "863-MC74HC164ADR2G", 
+            "partSearchOptions": "" 
+        }
+    }
+
+
+
+
+{
+  "Errors": [],
+  "SearchResults": {
+    "NumberOfResult": 1,
+    "Parts": [
+      {
+        "Availability": "19793 In Stock",
+        "DataSheetUrl": "https://www.mouser.com/datasheet/2/308/1/MC74HC164A_D-2315694.pdf",
+        "Description": "Counter Shift Registers 2-6V 8-Bit Serial In Parallel Out Shift",
+        "FactoryStock": "0",
+        "ImagePath": "https://www.mouser.com/images/mouserelectronics/images/SOIC_14_t.jpg",
+        "Category": "Counter Shift Registers",
+        "LeadTime": "75 Days",
+        "LifecycleStatus": null,
+        "Manufacturer": "onsemi",
+        "ManufacturerPartNumber": "MC74HC164ADR2G",
+        "Min": "1",
+        "Mult": "1",
+        "MouserPartNumber": "863-MC74HC164ADR2G",
+        "ProductAttributes": [
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Reel"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "Cut Tape"
+          },
+          {
+            "AttributeName": "Packaging",
+            "AttributeValue": "MouseReel"
+          },
+          {
+            "AttributeName": "Standard Pack Qty",
+            "AttributeValue": "2500"
+          }
+        ],
+        "PriceBreaks": [
+          {
+            "Quantity": 1,
+            "Price": "0,43 €",
+            "Currency": "EUR"
+          },
+          {
+            "Quantity": 10,
+            "Price": "0,332 €",
+            "Currency": "EUR"
+          },
+          {
+            "Quantity": 100,
+            "Price": "0,24 €",
+            "Currency": "EUR"
+          },
+          {
+            "Quantity": 500,
+            "Price": "0,214 €",
+            "Currency": "EUR"
+          },
+          {
+            "Quantity": 1000,
+            "Price": "0,166 €",
+            "Currency": "EUR"
+          },
+          {
+            "Quantity": 2500,
+            "Price": "0,15 €",
+            "Currency": "EUR"
+          },
+          {
+            "Quantity": 5000,
+            "Price": "0,14 €",
+            "Currency": "EUR"
+          },
+          {
+            "Quantity": 10000,
+            "Price": "0,136 €",
+            "Currency": "EUR"
+          },
+          {
+            "Quantity": 25000,
+            "Price": "0,132 €",
+            "Currency": "EUR"
+          }
+        ],
+        "AlternatePackagings": null,
+        "ProductDetailUrl": "https://gr.mouser.com/ProductDetail/onsemi/MC74HC164ADR2G?qs=qg33o%252B8vzFq1qNkx7e5aLA%3D%3D",
+        "Reeling": true,
+        "ROHSStatus": "RoHS Compliant",
+        "SuggestedReplacement": "",
+        "MultiSimBlue": 0,
+        "InfoMessages": [],
+        "ProductCompliance": [
+          {
+            "ComplianceName": "TARIC",
+            "ComplianceValue": "8542399000"
+          },
+          {
+            "ComplianceName": "CNHTS",
+            "ComplianceValue": "8542399000"
+          },
+          {
+            "ComplianceName": "CAHTS",
+            "ComplianceValue": "8542390000"
+          },
+          {
+            "ComplianceName": "USHTS",
+            "ComplianceValue": "8542390001"
+          },
+          {
+            "ComplianceName": "JPHTS",
+            "ComplianceValue": "8542390990"
+          },
+          {
+            "ComplianceName": "MXHTS",
+            "ComplianceValue": "85423999"
+          },
+          {
+            "ComplianceName": "ECCN",
+            "ComplianceValue": "EAR99"
+          }
+        ]
+      }
+    ]
+  }
+}

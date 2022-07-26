@@ -1,11 +1,6 @@
 name: SN74HC165DR
 
-description: IC digital; 8bit,asynchronous,serial output,parallel in; SMD
-
-datasheet: SN74HC165DR.pdf
-
-distributors:
-  - name: SN74HC165DR
+suppliers:
+  - name: Mouser
     pn: SN74HC165DR
-    mfr: Texas Instruments
     link: https://www.tme.eu/gr/en/details/sn74hc165dr/shift-registers/texas-instruments/

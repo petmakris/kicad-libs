@@ -1,11 +1,7 @@
 name: Push_Button_Tactile_12mm-7.3mm
 
-description: Push Button Tact Switch 12x12mm 7.3mm
-
 # Also on TME
-
-distributors:
+suppliers:
   - name: GRobotronics
     pn: TACTS-24RF
-    mfr: nigiri
     link: https://grobotronics.com/tact-switch-12x12mm-7.3mm.html

@@ -1,0 +1,10 @@
+name: XY2500F-B(5.08)-4P
+
+suppliers:
+  - name: grobotronics
+    pn: XY2500F-B(5.08)-4P
+    link: https://grobotronics.com/terminal-block-pluggable-4-pins-female-p5.08.html
+
+  - name: TME
+    pn: TBW-5.08-K-4P
+    link: https://www.tme.eu/en/details/tbw-5.08-k-4p/pluggable-terminal-blocks/xinya/xy2500f-b-5-08-4p/

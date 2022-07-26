@@ -29,19 +29,20 @@
         <div class="row p-2">
             <div class="col p-2">
                 <h3>{{ part.name }}</h3>
+                <h2>{{ part.category }}</h2>
 
                 <div class="p-2">
                     <img src="{{ part.image }}" style="width:64px; height:64px">
                 </div>
 
                 <div class="d-flex flex-column">
-                    <!-- details -->
-                    <!-- <div><b>{{ part.name }}</b></div> -->
-                    <div>{{ part.description }}</div>
+                    
                     <div class="mono">{{ part.directory }}</div>
+                    <!--
                     {% if part.datasheet != None %}
                     <div><a href="{{ part.datasheet }}">datasheet</a></div>
                     {% endif %}
+                    -->
                 </div>
             </div>
 
@@ -49,17 +50,17 @@
                 <table class="table">
                     <thead>
                         <tr>
-                            <th>Part name/Link</th>
-                            <th>Distributor Part #</th>
-                            <th>Mfr Part #</th>
+                            <th>Supplier</th>
+                            <th>Part #</th>
+                            <th>Link</th>
                         </tr>
                     </thead>
                     <tbody>
-                        {% for distributor in part.distributors %}
+                        {% for supplier in part.suppliers %}
                         <tr>
-                            <td><a href="{{ distributor.link }}">{{ distributor.name }}</a></td>
-                            <td>{{ distributor.pn }}</td>
-                            <td>{{ distributor.mfr }}</td>
+                            <td>{{ supplier.name }}</td>
+                            <td>{{ supplier.pn }}</td>
+                            <td><a href="{{ supplier.link }}">{{ supplier.name }}</a></td>
                         </tr>
                         {% endfor %}
                     </tbody>

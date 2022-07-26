@@ -1,12 +1,6 @@
 name: ATMEGA328AU
 
-description: 1.8V ~ 5.5V 20MHz FLASH 8-Bit AVR TQFP-32_7x7x08P MICROCHIP ROHS
-datasheet: 
-
-# Plenty of alternatives, not many in stock.
-
-distributors:
+suppliers:
   - name: LCSC (ATMEGA328PB-AU)
     pn: C132230
-    mfr: Microchip/Atmel
     link: https://lcsc.com/product-detail/MICROCHIP_Microchip-Tech-ATMEGA328PB-AU_C132230.html

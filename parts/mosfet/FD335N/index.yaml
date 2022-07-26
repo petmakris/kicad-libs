@@ -1,19 +1,12 @@
 name: FDN335N
 
-description: MOSFET SSOT-3 N-CH 20V
-datasheet: 
-
-package: SSOT-3
-
-distributors:
+suppliers:
   - name: Mouser
     pn: 512-FDN335N
-    mfr: onsemi / fairchild
     link: https://gr.mouser.com/ProductDetail/onsemi-Fairchild/FDN335N?qs=mdiO5HdF0KhZ%2F6bKTj3K6A%3D%3D
 
   - name: TME
     pn: FDN335N
-    mfr: onsemi
     link: https://www.tme.eu/gr/en/details/fdn335n/smd-n-channel-transistors/onsemi/
 
 

@@ -1,21 +1,15 @@
 name: BZX84-B5V1-235
 
-description: Zener Diodes DIODE ZENER 2 PCT
-datasheet: BZX84_SER-1319896.pdf
 
-distributors:
+suppliers:
   - name: Mouser
     pn: 771-BZX84-B5V1235
-    mfr: 'BZX84-B5V1,235'
     link: https://gr.mouser.com/ProductDetail/Nexperia/BZX84-B5V1235?qs=me8TqzrmIYWuU3MF1iSoHw%3D%3D
 
   - name: TME
     pn: BZX84-B5V1.215
-    mfr: NEXPERIA
     link: https://www.tme.eu/gr/en/details/bzx84-b5v1.215/smd-zener-diodes/nexperia/bzx84-b5v1-215/
 
   - name: TME
     pn: BZX84B5V1LT1G
-    mfr: ONSEMI
     link: https://www.tme.eu/gr/en/details/bzx84b5v1lt1g/smd-zener-diodes/onsemi/
-
